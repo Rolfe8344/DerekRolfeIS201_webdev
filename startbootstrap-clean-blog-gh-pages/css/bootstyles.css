@@ -1,0 +1,30 @@
+.Heading {
+    font-weight: bold;
+    font-size: larger;
+}
+.bullet{
+    font-style: italic;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+.MovieH {
+    font-weight: bold;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ABS {
+    flex-grow: 0 !important;
+    color: white;
+  }
+     
+.iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+    float: center;
+}
+
+
+
