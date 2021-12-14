@@ -1,7 +1,6 @@
 .common {
     background-color: gray;
-;
-    position: absolute;
+    position: absolute
 
 }
 .background{
@@ -10,7 +9,6 @@
 
 .header {
     top: 5px;
-    left: 5px;
     right: 5px;
     height: 100px;
     z-index: 2;
@@ -54,4 +52,5 @@
     height: 100px;
     z-index: 2;
     border-bottom:solid 1px #555555;
+    text-align: center;
 }
