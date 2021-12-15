@@ -12,7 +12,7 @@
     right: 5px;
     height: 100px;
     z-index: 2;
-    border-bottom:solid 1px #555555;
+    
 }
 
 .tl {
@@ -51,6 +51,5 @@
     right: 5px;
     height: 100px;
     z-index: 2;
-    border-bottom:solid 1px #555555;
     text-align: center;
 }
