@@ -29,14 +29,14 @@
 
 }
 .bl {
-    top: 675px;
+    top: 700px;
     left: 5px;
     width: 47%;
     height:47%;
 
 }
 .br {
-    top: 675px;
+    top: 700px;
     right: 5px;
     width: 47%;
     height:47%;
@@ -45,7 +45,7 @@
 }
 
 .footer {
-    top: 1250px;
+    top: 1325px;
     bottom: 5px;
     left: 5px;
     right: 5px;
