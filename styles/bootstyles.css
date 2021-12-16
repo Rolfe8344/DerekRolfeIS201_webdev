@@ -1,30 +1,55 @@
-.Heading {
-    font-weight: bold;
-    font-size: larger;
+.common {
+    background-color: gray;
+    position: absolute
+
 }
-.bullet{
-    font-style: italic;
-    font-size: medium;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: normal;
-}
-.MovieH {
-    font-weight: bold;
-    font-size: larger;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.ABS {
-    flex-grow: 0 !important;
-    color: white;
-  }
-     
-.iframe-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
-    height: 0;
-    float: center;
+.background{
+    background-color: gray;
 }
 
+.header {
+    top: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    
+}
+
+.tl {
+    top:120px;
+    left: 5px;
+    width: 47%;
+    height:47%;
+}
+.tr {
+    top: 120px;
+    right: 5px;
+    width: 47%;
+    height:47%;
+
+}
+.bl {
+    top: 675px;
+    left: 5px;
+    width: 47%;
+    height:47%;
+
+}
+.br {
+    top: 675px;
+    right: 5px;
+    width: 47%;
+    height:47%;
 
 
+}
+
+.footer {
+    top: 1250px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    text-align: center;
+}
